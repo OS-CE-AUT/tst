@@ -7,10 +7,10 @@ includes:
     data: 6
 
   - meta: Assistants
-    data: 45
+    data: 15
 
   - meta: Students
-    data: 170+
+    data: 120+
 
  
 

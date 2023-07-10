@@ -1,50 +1,48 @@
-- name: Mohammad Haghighat
+- name: Dr. Seyyed Ahmad Javadi
+  role: Professor
+  image: seyyed-ahmad-javadi.jpg
+  social:
+    - name: github
+      link: https://github.com/sajavadi
+    - name: linkedin
+      link: https://ir.linkedin.com/in/sajavadi
+
+- name: Barry Allen
   role: Head TA
-  image: mohammadhaghighat.png
+  image: default.png
   social:
     - name: github
-      link: https://github.com/mhaghighat20
+      link: https://github.com/
+    - name: linkedin
+      link: https://linkedin.com/in/
+    - name: twitter
+      link: https://twitter.com/
 
-- name: Ahmad Salimi
+- name: Reiner Braun
   role: Head of Project
-  image: ahmadsalimi.png
+  image: default.png
   social:
     - name: github
-      link: https://github.com/ahmadsalimi
+      link: https://github.com/
     - name: linkedin
-      link: https://linkedin.com/in/ahmadsalimi
-    - name: twitter
-      link: https://twitter.com/ChichekaMan
+      link: https://linkedin.com/in/
 
-- name: MohammadHossein Gheisarieh
+- name: Anakin Skywalker
   role: Head of Assignments
-  image: M.HGheisarieh.png
+  image: default.png
   social:
     - name: github
-      link: https://github.com/mhgheisarieh
+      link: https://github.com/
     - name: linkedin
-      link: https://www.linkedin.com/in/mohammad-hosein-gheisarieh-14a444144
+      link: https://linkedin.com/in/
     - name: twitter
-      link: https://twitter.com/mhgheisarieh
+      link: https://twitter.com/
 
-- name: Hamed Khanaki
+- name: Peter Parker
   role: Head of Workshops
-  image: HamedKhanaki.png
+  image: default.png
   social:
     - name: github
-      link: https://github.com/HamedKh99
+      link: https://github.com/
     - name: linkedin
-      link: https://www.linkedin.com/in/hamed-khanaki
-    - name: twitter
-      link: https://twitter.com/_hamedkhanaki
-
-- name: Amirhossein Abbasi
-  role: Head of Public Relations
-  image: AmirHosseinAbbasi.png
-  social:
-    - name: github
-      link: http://github.com/ahak14
-    - name: linkedin
-      link: https://www.linkedin.com/in/amirhosseinabbasi
-    - name: twitter
-      link: http://twitter.com/_AHAK_
+      link: https://linkedin.com/in/
