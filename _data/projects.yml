@@ -1,6 +1,6 @@
 - semester: Spring 2023
   title: Optimize fork of xv6
-  icon: fork
+  icon: code-branch
   projects:
     - team: Team 10
       links:
@@ -110,12 +110,12 @@
 
 - semester: Spring 2023
   title: System Calls for xv6
-  icon: system
+  icon: tty
   projects:
     - team: Team 5
       links:
         - title: Repository
-          url: https://github.com/
+          url: https://github.com/AshkanShakiba/OS-PX-xv6_riscv
         - title: Namasha
           url: https://www.namasha.com/
     - team: Team 1
@@ -151,12 +151,12 @@
 
 - semester: Fall 2022
   title: Thread for xv6
-  icon: thread
+  icon: vials
   projects:
     - team: Team 3
       links:
         - title: Repository
-          url: https://github.com/
+          url: https://github.com/farhad-aman/OS-Fall2022
         - title: Aparat
           url: https://www.aparat.com/
     - team: Team 1
