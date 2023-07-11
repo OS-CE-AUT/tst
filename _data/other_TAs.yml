@@ -20,7 +20,7 @@
     - name: linkedin
       link: https://www.linkedin.com/in/farhad-aman/
     - name: twitter
-      link: https://twitter.com/
+      link: https://twitter.com/FarhadAman77
 
 - name: Harry Potter
   roles:
@@ -34,6 +34,30 @@
       link: https://www.linkedin.com/
 
 - name: Erwin Smith
+  roles:
+    - Public Relations
+    - Project
+  image: default.png
+  social:
+    - name: github
+      link: https://github.com/
+    - name: linkedin
+      link: https://www.linkedin.com/
+    - name: twitter
+      link: https://twitter.com/
+
+- name: Toph Beifong
+  roles:
+    - Assignments
+    - Workshop
+  image: default.png
+  social:
+    - name: github
+      link: https://github.com/
+    - name: linkedin
+      link: https://www.linkedin.com/
+
+- name: Yagami Light
   roles:
     - Public Relations
     - Project

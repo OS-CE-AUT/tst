@@ -112,7 +112,7 @@
   title: System Calls for xv6
   icon: tty
   projects:
-    - team: Team 5
+    - team: Team 10
       links:
         - title: Repository
           url: https://github.com/AshkanShakiba/OS-PX-xv6_riscv
