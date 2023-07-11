@@ -1,167 +1,191 @@
-- semester: Spring 2020
-  title: Shop Application
-  icon: shopping-cart
+- semester: Spring 2023
+  title: Optimize fork of xv6
+  icon: fork
   projects:
     - team: Team 10
       links:
         - title: Repository
-          url: https://github.com/AdvProg2020/Project_team-10
+          url: https://github.com/AshkanShakiba/OS-PX-xv6_riscv
         - title: Aparat
-          url: https://www.aparat.com/v/H2NrO
+          url: https://www.aparat.com/
     - team: Team 20
       links:
         - title: Repository
-          url: https://github.com/AdvProg2020/Project_team-20
+          url: https://github.com/
         - title: Aparat
-          url: https://www.aparat.com/v/bj8gx
+          url: https://www.aparat.com/
     - team: Team 34
       links:
         - title: Repository
-          url: https://github.com/AdvProg2020/Project_team-34
+          url: https://github.com/
         - title: Aparat
-          url: https://www.aparat.com/v/A5sWo
+          url: https://www.aparat.com/
         - title: Youtube
-          url: https://www.youtube.com/watch?v=JP1-S5qZk4E
+          url: https://www.youtube.com/
     - team: Team 24
       links:
         - title: Repository
-          url: https://github.com/AdvProg2020/Project_team-24
+          url: https://github.com/
         - title: Aparat
-          url: https://www.aparat.com/v/YZKaH
+          url: https://www.aparat.com/
     - team: Team 40
       links:
         - title: Repository
-          url: https://github.com/AdvProg2020/Project_team-40
+          url: https://github.com/
         - title: Aparat
-          url: https://aparat.com/v/Di63q
+          url: https://aparat.com/
     - team: Team 3
       links:
         - title: Repository
-          url: https://github.com/AdvProg2020/Project_team-3
+          url: https://github.com/
         - title: Aparat
-          url: https://www.aparat.com/v/snRCU
+          url: https://www.aparat.com/
     - team: Team 5
       links:
         - title: Repository
-          url: https://github.com/AdvProg2020/Project_team-5
+          url: https://github.com/
         - title: Aparat
-          url: https://www.aparat.com/v/BiYkt
+          url: https://www.aparat.com/
     - team: Team 51
       links:
         - title: Repository
-          url: https://github.com/AdvProg2020/Project_team-51
+          url: https://github.com/
         - title: Aparat
-          url: https://www.aparat.com/v/KsR7m
+          url: https://www.aparat.com/
 
-- semester: Spring 2019
-  title: Duelyst
-  icon: jedi
+- semester: Spring 2023
+  title: Scheduler for xv6
+  icon: clock
   projects:
-    - team: Team 7
+    - team: Team 10
       links:
         - title: Repository
-          url: https://github.com/aps2019project/Duelers
+          url: https://github.com/AshkanShakiba/OS-PX-xv6_riscv
         - title: Aparat
-          url: https://www.aparat.com/v/OJTf1
+          url: https://www.aparat.com/
         - title: YouTube
-          url: https://youtu.be/s0aTC6NB-yg
+          url: https://youtu.be/
     - team: Team 14
       links:
         - title: Repository
-          url: https://github.com/aps2019project/project-14
+          url: https://github.com/
         - title: Aparat
-          url: https://www.aparat.com/v/EIphc
+          url: https://www.aparat.com/
     - team: Team 47
       links:
         - title: Repository
-          url: https://github.com/aps2019project/project-47
+          url: https://github.com/
         - title: Aparat
-          url: https://www.aparat.com/v/zHWxt
+          url: https://www.aparat.com/
     - team: Team 16
       links:
         - title: Repository
-          url: https://github.com/aps2019project/project-16
+          url: https://github.com/
         - title: Aparat
-          url: https://www.aparat.com/v/EnHhf
+          url: https://www.aparat.com/
     - team: Team 5
       links:
         - title: Repository
-          url: https://github.com/aps2019project/project-5
+          url: https://github.com/
         - title: Aparat
-          url: https://www.aparat.com/v/yKeV3
+          url: https://www.aparat.com/
     - team: Team 1
       links:
         - title: Repository
-          url: https://github.com/aps2019project/project-1
+          url: https://github.com/
         - title: Aparat
-          url: https://www.aparat.com/v/CLjky
+          url: https://www.aparat.com/
     - team: Team 13
       links:
         - title: Repository
-          url: https://github.com/aps2019project/project-13
+          url: https://
         - title: Aparat
-          url: https://www.aparat.com/v/SRyDE
+          url: https://www.aparat.com/
     - team: Team 9
       links:
         - title: Repository
-          url: https://github.com/aps2019project/project-9
+          url: https://github.com/
         - title: Aparat
-          url: http://aparat.com/v/E4ab1
+          url: http://aparat.com/
 
-- semester: Fall 2018
-  title: Farm Frenzy
-  icon: piggy-bank
+- semester: Spring 2023
+  title: System Calls for xv6
+  icon: system
   projects:
     - team: Team 5
       links:
+        - title: Repository
+          url: https://github.com/
         - title: Namasha
-          url: https://www.namasha.com/v/ab2QCCad
+          url: https://www.namasha.com/
     - team: Team 1
       links:
+        - title: Repository
+          url: https://github.com/
         - title: Aparat
-          url: https://www.aparat.com/v/RKrqx
+          url: https://www.aparat.com/
     - team: Team 10
       links:
+        - title: Repository
+          url: https://github.com/
         - title: Aparat
-          url: https://www.aparat.com/v/IDido
+          url: https://www.aparat.com/
     - team: Team 7
       links:
+        - title: Repository
+          url: https://github.com/
         - title: Aparat
-          url: https://www.aparat.com/v/QeWbG
+          url: https://www.aparat.com/
     - team: Team 11
       links:
+        - title: Repository
+          url: https://github.com/
         - title: Aparat
-          url: https://www.aparat.com/v/59HVU
+          url: https://www.aparat.com/
     - team: Team 17
       links:
+        - title: Repository
+          url: https://github.com/
         - title: Aparat
-          url: https://www.aparat.com/v/2N10Y
+          url: https://www.aparat.com/
 
-- semester: Spring 2018
-  title: Clash of Clans
-  icon: shield-alt
+- semester: Fall 2022
+  title: Thread for xv6
+  icon: thread
   projects:
     - team: Team 3
       links:
+        - title: Repository
+          url: https://github.com/
         - title: Aparat
-          url: https://www.aparat.com/v/x7hQD
+          url: https://www.aparat.com/
     - team: Team 1
       links:
+        - title: Repository
+          url: https://github.com/
         - title: Aparat
-          url: https://www.aparat.com/v/h3DgF
+          url: https://www.aparat.com/
     - team: Team 6
       links:
+        - title: Repository
+          url: https://github.com/
         - title: Aparat
-          url: https://www.aparat.com/v/KtZps
+          url: https://www.aparat.com/
     - team: Team 7
       links:
+        - title: Repository
+          url: https://github.com/
         - title: Aparat
-          url: https://www.aparat.com/v/QeWbG
+          url: https://www.aparat.com/
     - team: Team 12
       links:
+        - title: Repository
+          url: https://github.com/
         - title: Aparat
-          url: https://www.aparat.com/v/pfniQ
+          url: https://www.aparat.com/
     - team: Team 15
       links:
+        - title: Repository
+          url: https://github.com/
         - title: Aparat
-          url: https://www.aparat.com/v/26MgQ
+          url: https://www.aparat.com/
