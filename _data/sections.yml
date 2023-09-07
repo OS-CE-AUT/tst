@@ -21,3 +21,6 @@
 - title: Contact
   section: contact
   navbar: true
+- title: Calendar
+  section: calendar
+  navbar: true
