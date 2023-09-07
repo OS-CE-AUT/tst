@@ -2,6 +2,10 @@
   section: overview
   navbar: true
 
+- title: Calendar
+  section: calendar
+  navbar: true
+
 - title: Content
   section: content
   navbar: true
@@ -20,7 +24,4 @@
 
 - title: Contact
   section: contact
-  navbar: true
-- title: Calendar
-  section: calendar
   navbar: true
