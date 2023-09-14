@@ -2,20 +2,16 @@
     <div class="container py-5 theme-bg-light rounded">
         <div class="section-col-max mx-auto">
             <h3 class="section-title mb-4">{{ site.data.calendar.title }}</h3>
-            <ul class="section-nav nav list-inline">
-                <li class="nav-item">
-                    Mehr
-                </li>
-                <li class="nav-item">
-                  Aban
-              </li>
-              <li class="nav-item">
-                Azar
-            </li>
+            <ul class="section-nav nav list-inline gap-3">
+                {% for month in site.data.calendar.months%}
+                    <li>
+                        {{ month.title }}
+                    </li>
+                {% endfor %}
             </ul>
             {% for month in site.data.calendar.months %}
+            <h3>{{month.title}}</h3>
             <div class="d-flex flex-wrap">
-                <h3>{{month.title}}</h3>
                     {% for item in month.days %}
                     <div class="p-3 d-flex justify-content-center align-items-center">
                         {{ item }}
@@ -23,11 +19,7 @@
                     {% endfor %}
             </div> 
             {% endfor %}
-            <div>
-              <p class="">mehr</p>
-              <p class="d-none">aban</p>
-              <p class="d-none">azar</p>
-            </div>
+            
            
         </div>
         <!--//section-col-max-->
