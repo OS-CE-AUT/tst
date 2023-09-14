@@ -14,15 +14,15 @@ console.log('calendar working')
 //   console.log(e);
 // }
 
-fetch('../../_data/calendar.yml')
-  .then(response => response.text())
-  .then(yamlData => {
-    // Parse the YAML data
-    const doc = jsyaml.load(yamlData);
+// fetch('../../_data/calendar.yml')
+//   .then(response => response.text())
+//   .then(yamlData => {
+//     // Parse the YAML data
+//     const doc = jsyaml.load(yamlData);
 
-    // Now you can work with the parsed YAML data
-    console.log(yamlData, doc);
-  })
-  .catch(error => {
-    console.error('Error fetching YAML data:', error);
-  });
+//     // Now you can work with the parsed YAML data
+//     console.log(yamlData, doc);
+//   })
+//   .catch(error => {
+//     console.error('Error fetching YAML data:', error);
+//   });
