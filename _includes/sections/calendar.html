@@ -13,21 +13,20 @@
                 Azar
             </li>
             </ul>
-            <!-- <div class="d-flex flex-wrap">
-                    {% for item in site.data.calendar.days %}
+            {% for month in site.data.calendar.months %}
+            <div class="d-flex flex-wrap">
+                    {% for item in month.days %}
                     <div class="p-3 d-flex justify-content-center align-items-center">
                         {{ item }}
                     </div>
                     {% endfor %}
-            </div>  -->
+            </div> 
+            {% endfor %}
             <div>
               <p class="">mehr</p>
               <p class="d-none">aban</p>
               <p class="d-none">azar</p>
             </div>
-            {% if 2 == 2 %}
-                <p>true</p>
-            {% endif %}
            
         </div>
         <!--//section-col-max-->

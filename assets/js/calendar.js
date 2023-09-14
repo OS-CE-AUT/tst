@@ -15,7 +15,7 @@ console.log('calendar working')
 // }
 
 fetch('../../_data/calendar.yml')
-  .then(response => {response.text(); console.log(response)})
+  .then(response => response.text())
   .then(yamlData => {
     // Parse the YAML data
     const doc = jsyaml.load(yamlData);
