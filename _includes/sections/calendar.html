@@ -2,15 +2,19 @@
     <div class="container py-5 theme-bg-light rounded">
         <div class="section-col-max mx-auto">
             <h3 class="section-title mb-4">{{ site.data.calendar.title }}</h3>
-            <ul class="section-nav nav list-inline gap-3">
-                {% for month in site.data.calendar.months%}
-                    <li>
-                        {{ month.title }}
-                    </li>
-                {% endfor %}
-            </ul>
+
+            <nav class="navbar">
+                <ul class="navbar-nav">
+                    {% for month in site.data.calendar.months%}
+                        <li>
+                            {{ month.title }}
+                        </li>
+                    {% endfor %}
+                </ul>
+            </nav>
+            
             {% for month in site.data.calendar.months %}
-            <h3>{{month.title}}</h3>
+            <h3 class="align-center">{{month.title}}</h3>
             <div class="d-flex flex-wrap">
                     {% for item in month.days %}
                     <div class="p-3 d-flex justify-content-center align-items-center">
