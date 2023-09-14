@@ -21,7 +21,7 @@ fetch('../../_data/calendar.yml')
     const doc = jsyaml.load(yamlData);
 
     // Now you can work with the parsed YAML data
-    console.log(doc);
+    console.log(yamlData, doc);
   })
   .catch(error => {
     console.error('Error fetching YAML data:', error);
