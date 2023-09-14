@@ -1,7 +1,7 @@
 title: Course calendar
 months:
-  -September:
-    -days:
+  -title: September
+    days:
       - 1
       - 2
       - 3
@@ -32,8 +32,8 @@ months:
       - 28
       - 29
       - 30
-  -October:
-    -days:
+  -title: October
+    days:
       - 1
       - 2
       - 3
@@ -64,8 +64,8 @@ months:
       - 28
       - 29
       - 30
-  -November:
-    -days:
+  -title: November
+    days:
       - 1
       - 2
       - 3
@@ -96,8 +96,8 @@ months:
       - 28
       - 29
       - 30
-  -December:
-    -days:
+  -title: Decemebr
+    days:
       - 1
       - 2
       - 3
@@ -128,8 +128,8 @@ months:
       - 28
       - 29
       - 30
-  -January:
-    -days:
+  -title: January
+    days:
       - 1
       - 2
       - 3
@@ -160,8 +160,8 @@ months:
       - 28
       - 29
       - 30
-  -February:
-    -days:
+  -title: February
+    days:
       - 1
       - 2
       - 3
@@ -192,8 +192,8 @@ months:
       - 28
       - 29
       - 30
-  -March:
-    -days:
+  -title: March
+    days:
       - 1
       - 2
       - 3
@@ -224,8 +224,8 @@ months:
       - 28
       - 29
       - 30
-  -April:
-    -days:
+  -title: April
+    days:
       - 1
       - 2
       - 3
