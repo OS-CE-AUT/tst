@@ -8,7 +8,7 @@ console.log('calendar working')
 
 // Get document, or throw exception on error
 try {
-  const doc = jsyaml.load('../../_data/calendar.yml');
+  const doc = jsyaml.load(fs.readFileSync('../../_data/calendar.yml'), 'utf8');
   console.log(doc)
 } catch (e) {
   console.log(e);
