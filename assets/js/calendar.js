@@ -7,7 +7,8 @@ const buttons = document.querySelectorAll("[data-type='monthButton']")
 console.log(months)
 console.log(buttons)
 
-// months[0].style.display = 'block';
+months.forEach(month => {month.style.display = 'none';});
+months[0].style.display = 'block';
 
 // const showMonth = (name) => {
 
