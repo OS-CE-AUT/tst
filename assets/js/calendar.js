@@ -19,3 +19,8 @@ const showMonth = (name) => {
     month.style.display = 'block'
 }
 
+buttons.forEach(button => {
+    button.addEventListener('click', () => {
+        showMonth(button.dataset.value)
+    })
+})
