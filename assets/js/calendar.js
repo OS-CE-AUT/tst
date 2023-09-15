@@ -1,4 +1,7 @@
-console.log('calendar working')
+document.onload = function() {
+    console.log('calendar working')
 
 const months = document.querySelectorAll("[data-type='month']");
 console.log(months)
+
+}
