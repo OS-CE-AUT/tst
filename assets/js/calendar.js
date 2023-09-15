@@ -11,6 +11,7 @@ months.forEach(month => {month.style.display = 'none';});
 months[0].style.display = 'block';
 
 const showMonth = (name) => {
+    console.log('button clicked month:', name)
 
     months.forEach(month => {month.style.display = 'none';});
 
