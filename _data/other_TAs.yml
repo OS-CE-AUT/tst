@@ -24,7 +24,7 @@
   
 - name: Amirfazel Koozegar
   roles:
-    - Project
+    - Website
   image: amirfazel-koozegar.jpg
   social:
     - name: github
