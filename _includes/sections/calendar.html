@@ -10,7 +10,7 @@
       </div>
 
       {% for month in site.data.calendar.months %}
-      <div data-month="{{ month.title }}" class="w-100 month">
+      <div data-month="{{ month.title }}" class="w-100" data-type="month" data-value={{month.title}}>
         <h3 class="text-center">{{month.title}}</h3>
         <div class="d-flex flex-wrap">
           {% for item in month.days %}
