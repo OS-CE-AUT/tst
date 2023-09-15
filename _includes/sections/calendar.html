@@ -14,8 +14,14 @@
         <h3 class="text-center">{{month.title}}</h3>
         <div class="d-flex flex-wrap">
           {% for item in month.days %}
-          <div class="p-3 d-flex justify-content-center align-items-center">
-            {{ item }}
+          <div class="w-25 d-flex flex-column justify-content-center align-items-center">
+            <h4>{{ item.day }}</h4>
+            {% if item.topic%}
+                <span class="badge badge-success">{{item.topic}}</span>
+            {% endif %}
+            {% if item.presenter%}
+                <span class="badge badge-secondary">{{item.presenter}}</span>
+            {% endif %}
           </div>
           {% endfor %}
         </div>
