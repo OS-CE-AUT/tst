@@ -4,4 +4,6 @@
 }
 .day-box span{
     height: 15%;
+    overflow-wrap: break-word;
+    overflow: auto;
 }
