@@ -1,31 +1,29 @@
 <div class="pt-md-4 pt-lg-5">
-    <div class="container py-5 theme-bg-light rounded">
-        <div class="section-col-max mx-auto">
-            <h3 class="section-title mb-4">{{ site.data.calendar.title }}</h3>
+  <div class="container py-5 theme-bg-light rounded">
+    <div class="section-col-max mx-auto">
+      <h3 class="section-title mb-4">{{ site.data.calendar.title }}</h3>
 
-            <div class="flex justify-content-around align-items-center">
-                    {% for month in site.data.calendar.months%}
-                        <button class="btn btn-light m-2">
-                            {{ month.title }}
-                        </button>
-                    {% endfor %}
-            </div>
-            
-            {% for month in site.data.calendar.months %}
-            <h3 class="text-center">{{month.title}}</h3>
-            <div class="d-flex flex-wrap">
-                    {% for item in month.days %}
-                    <div class="p-3 d-flex justify-content-center align-items-center">
-                        {{ item }}
-                    </div>
-                    {% endfor %}
-            </div> 
-            {% endfor %}
-            
-           
+      <div class="flex justify-content-around align-items-center">
+        {% for month in site.data.calendar.months%}
+        <button class="btn btn-light m-2">{{ month.title }}</button>
+        {% endfor %}
+      </div>
+
+      {% for month in site.data.calendar.months %}
+      <div data-month="{{ month.title }}" class="w-100 month">
+        <h3 class="text-center">{{month.title}}</h3>
+        <div class="d-flex flex-wrap">
+          {% for item in month.days %}
+          <div class="p-3 d-flex justify-content-center align-items-center">
+            {{ item }}
+          </div>
+          {% endfor %}
         </div>
-        <!--//section-col-max-->
+      </div>
+      {% endfor %}
     </div>
-    <!--//container-->
+    <!--//section-col-max-->
+  </div>
+  <!--//container-->
 </div>
 <!--//section-overview-->
