@@ -10,12 +10,12 @@ console.log(buttons)
 months.forEach(month => {month.style.display = 'none';});
 months[0].style.display = 'block';
 
-// const showMonth = (name) => {
+const showMonth = (name) => {
 
-//     months.forEach(month => {month.style.display = 'none';});
+    months.forEach(month => {month.style.display = 'none';});
 
 
-//     let month = document.querySelector(`[data-value=${name}]`)
-//     month.style.display = 'block'
-// }
+    let month = document.querySelector(`[data-value=${name}]`)
+    month.style.display = 'block'
+}
 
