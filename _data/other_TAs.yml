@@ -21,6 +21,18 @@
       link: https://www.linkedin.com/in/farhad-aman/
     - name: twitter
       link: https://twitter.com/FarhadAman77
+  
+  - name: Amirfazel Koozegar
+  roles:
+    - Project
+  image: amirfazel-koozegar.jpg
+  social:
+    - name: github
+      link: https://github.com/mr-amirfazel
+    - name: linkedin
+      link: https://www.linkedin.com/in/amirfazel-koozegar-kaleji-229682227/
+    - name: twitter
+      link: https://twitter.com/cleverapache
 
 - name: Harry Potter
   roles:
