@@ -1,8 +1,8 @@
-document.onload = function() {
+
     console.log('calendar working')
 
 const months = document.querySelectorAll("[data-type='month']");
-const buttons = document.querySelectorAll("data-type='month-button'")
+const buttons = document.querySelectorAll("[data-type='monthButton']")
     
 console.log(months)
 console.log(buttons)
@@ -18,4 +18,3 @@ console.log(buttons)
 //     month.style.display = 'block'
 // }
 
-}
