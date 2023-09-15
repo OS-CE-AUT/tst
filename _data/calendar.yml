@@ -65,12 +65,10 @@ months:
       - day: 30
 
   - title: October
-      days:
+    days:
       - day: 1
 
       - day: 2
-        topic: Round Robin
-        presenter: Siroos din mohammadi
 
       - day: 3
 
@@ -85,7 +83,8 @@ months:
       - day: 8
 
       - day: 9
-        
+        topic: Deadlock in POSIX systems
+        presenter: Yahya gol mohammadi
       - day: 10
 
       - day: 11
@@ -99,11 +98,10 @@ months:
       - day: 15
 
       - day: 16
-        topic: How hardwares are connected to OS
-        presenter: wilhelm II
 
       - day: 17
-        
+        topic: Android Kernels
+        presenter: Amirfazel koozegar
       - day: 18
 
       - day: 19
@@ -129,6 +127,7 @@ months:
       - day: 29
 
       - day: 30
+
   - title: November
     days:
       - day: 1
@@ -148,7 +147,8 @@ months:
       - day: 8
 
       - day: 9
-        
+        topic: Deadlock in POSIX systems
+        presenter: Yahya gol mohammadi
       - day: 10
 
       - day: 11
@@ -164,7 +164,8 @@ months:
       - day: 16
 
       - day: 17
-        
+        topic: Android Kernels
+        presenter: Amirfazel koozegar
       - day: 18
 
       - day: 19
@@ -190,7 +191,8 @@ months:
       - day: 29
 
       - day: 30
-  - title: Decemebr
+
+  - title: Decemeber
     days:
       - day: 1
 
@@ -209,7 +211,8 @@ months:
       - day: 8
 
       - day: 9
-        
+        topic: Deadlock in POSIX systems
+        presenter: Yahya gol mohammadi
       - day: 10
 
       - day: 11
@@ -225,7 +228,8 @@ months:
       - day: 16
 
       - day: 17
-        
+        topic: Android Kernels
+        presenter: Amirfazel koozegar
       - day: 18
 
       - day: 19
@@ -251,6 +255,7 @@ months:
       - day: 29
 
       - day: 30
+
   - title: January
     days:
       - day: 1
@@ -270,7 +275,8 @@ months:
       - day: 8
 
       - day: 9
-        
+        topic: Deadlock in POSIX systems
+        presenter: Yahya gol mohammadi
       - day: 10
 
       - day: 11
@@ -286,7 +292,8 @@ months:
       - day: 16
 
       - day: 17
-        
+        topic: Android Kernels
+        presenter: Amirfazel koozegar
       - day: 18
 
       - day: 19
@@ -312,6 +319,7 @@ months:
       - day: 29
 
       - day: 30
+
   - title: February
     days:
       - day: 1
@@ -331,7 +339,8 @@ months:
       - day: 8
 
       - day: 9
-        
+        topic: Deadlock in POSIX systems
+        presenter: Yahya gol mohammadi
       - day: 10
 
       - day: 11
@@ -347,7 +356,8 @@ months:
       - day: 16
 
       - day: 17
-        
+        topic: Android Kernels
+        presenter: Amirfazel koozegar
       - day: 18
 
       - day: 19
@@ -373,6 +383,7 @@ months:
       - day: 29
 
       - day: 30
+
   - title: March
     days:
       - day: 1
@@ -392,7 +403,8 @@ months:
       - day: 8
 
       - day: 9
-        
+        topic: Deadlock in POSIX systems
+        presenter: Yahya gol mohammadi
       - day: 10
 
       - day: 11
@@ -408,7 +420,8 @@ months:
       - day: 16
 
       - day: 17
-        
+        topic: Android Kernels
+        presenter: Amirfazel koozegar
       - day: 18
 
       - day: 19
@@ -434,6 +447,7 @@ months:
       - day: 29
 
       - day: 30
+
   - title: April
     days:
       - day: 1
@@ -453,7 +467,8 @@ months:
       - day: 8
 
       - day: 9
-         
+        topic: Deadlock in POSIX systems
+        presenter: Yahya gol mohammadi
       - day: 10
 
       - day: 11
@@ -469,7 +484,8 @@ months:
       - day: 16
 
       - day: 17
-
+        topic: Android Kernels
+        presenter: Amirfazel koozegar
       - day: 18
 
       - day: 19
@@ -495,3 +511,5 @@ months:
       - day: 29
 
       - day: 30
+
+  
