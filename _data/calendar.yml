@@ -69,7 +69,8 @@ months:
       - day: 1
 
       - day: 2
-
+        topic: Round robin
+        presenter: siroos din mohammadi
       - day: 3
 
       - day: 4
@@ -83,8 +84,7 @@ months:
       - day: 8
 
       - day: 9
-        topic: Deadlock in POSIX systems
-        presenter: Yahya gol mohammadi
+         
       - day: 10
 
       - day: 11
@@ -100,9 +100,10 @@ months:
       - day: 16
 
       - day: 17
-        topic: Android Kernels
-        presenter: Amirfazel koozegar
+         
       - day: 18
+        topic: How hardwares are connected to OS kernels?
+        presenters: wilhelm the second
 
       - day: 19
 
@@ -137,6 +138,8 @@ months:
       - day: 3
 
       - day: 4
+        topic: Ragnorak incident
+        presenter: Thor
 
       - day: 5
 
@@ -147,8 +150,7 @@ months:
       - day: 8
 
       - day: 9
-        topic: Deadlock in POSIX systems
-        presenter: Yahya gol mohammadi
+        
       - day: 10
 
       - day: 11
@@ -164,8 +166,7 @@ months:
       - day: 16
 
       - day: 17
-        topic: Android Kernels
-        presenter: Amirfazel koozegar
+        
       - day: 18
 
       - day: 19
@@ -211,8 +212,7 @@ months:
       - day: 8
 
       - day: 9
-        topic: Deadlock in POSIX systems
-        presenter: Yahya gol mohammadi
+        
       - day: 10
 
       - day: 11
@@ -228,8 +228,7 @@ months:
       - day: 16
 
       - day: 17
-        topic: Android Kernels
-        presenter: Amirfazel koozegar
+        
       - day: 18
 
       - day: 19
@@ -243,6 +242,8 @@ months:
       - day: 23
 
       - day: 24
+        topic: shiganshina gateway
+        presenter: Eren jeager
 
       - day: 25
 
@@ -275,9 +276,10 @@ months:
       - day: 8
 
       - day: 9
-        topic: Deadlock in POSIX systems
-        presenter: Yahya gol mohammadi
+        
       - day: 10
+        topic: worthy king of the throne
+        presenter: Jaime lannister
 
       - day: 11
 
@@ -292,8 +294,7 @@ months:
       - day: 16
 
       - day: 17
-        topic: Android Kernels
-        presenter: Amirfazel koozegar
+        
       - day: 18
 
       - day: 19
@@ -339,8 +340,7 @@ months:
       - day: 8
 
       - day: 9
-        topic: Deadlock in POSIX systems
-        presenter: Yahya gol mohammadi
+         
       - day: 10
 
       - day: 11
@@ -356,8 +356,7 @@ months:
       - day: 16
 
       - day: 17
-        topic: Android Kernels
-        presenter: Amirfazel koozegar
+         
       - day: 18
 
       - day: 19
@@ -373,6 +372,8 @@ months:
       - day: 24
 
       - day: 25
+        topic: Taste of Apple
+        presenter: Eve
 
       - day: 26
 
@@ -395,6 +396,8 @@ months:
       - day: 4
 
       - day: 5
+        topic: Frontend frameworks comparison
+        presenter: Amirfazel koozegar
 
       - day: 6
 
@@ -403,8 +406,7 @@ months:
       - day: 8
 
       - day: 9
-        topic: Deadlock in POSIX systems
-        presenter: Yahya gol mohammadi
+        
       - day: 10
 
       - day: 11
@@ -420,8 +422,7 @@ months:
       - day: 16
 
       - day: 17
-        topic: Android Kernels
-        presenter: Amirfazel koozegar
+        
       - day: 18
 
       - day: 19
@@ -467,8 +468,7 @@ months:
       - day: 8
 
       - day: 9
-        topic: Deadlock in POSIX systems
-        presenter: Yahya gol mohammadi
+        
       - day: 10
 
       - day: 11
@@ -476,6 +476,8 @@ months:
       - day: 12
 
       - day: 13
+        topic: Driving lessons
+        presenter: Ryan gosling
 
       - day: 14
 
@@ -484,8 +486,7 @@ months:
       - day: 16
 
       - day: 17
-        topic: Android Kernels
-        presenter: Amirfazel koozegar
+        
       - day: 18
 
       - day: 19
