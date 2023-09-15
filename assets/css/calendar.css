@@ -1,4 +1,7 @@
 .day-box{
     height: 5rem;
-    width: 12rem !important;
+    width: 35% !important;
+}
+.day-box span{
+    height: 15%;
 }
