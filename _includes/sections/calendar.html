@@ -5,12 +5,12 @@
 
       <div class="flex justify-content-around align-items-center">
         {% for month in site.data.calendar.months%}
-        <button class="btn btn-light m-2" data-type="monthButton" data-value={{month.title}} onclick="showMonth(month.title)">{{ month.title }}</button>
+        <button class="btn btn-light m-2" data-type="monthButton" data-value={{month.title}}>{{ month.title }}</button>
         {% endfor %}
       </div>
 
       {% for month in site.data.calendar.months %}
-      <div data-month="{{ month.title }}" class="w-100" data-type="month" data-value={{month.title}}>
+      <div data-month="{{ month.title }}" class="w-100" data-type="month">
         <h3 class="text-center">{{month.title}}</h3>
         <div class="d-flex flex-wrap">
           {% for item in month.days %}

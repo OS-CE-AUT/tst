@@ -13,11 +13,7 @@ months[0].style.display = 'block';
 const showMonth = (name) => {
     console.log('button clicked month:', name)
 
-    months.forEach(month => {month.style.display = 'none';});
-
-
-    let month = document.querySelector(`[data-value=${name}]`)
-    month.style.display = 'block'
+    months.forEach( month => {if (month.dataset.month == name) {month.style.display = 'block'} else {month.style.display='none'}})
 }
 
 buttons.forEach(button => {
