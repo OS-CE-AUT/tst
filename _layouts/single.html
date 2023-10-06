@@ -12,6 +12,9 @@
     gtag('config', 'G-NS98R74QMQ');
     </script>
 
+
+    
+
     <title>{{site.title | scape}} | {{site.description | scape}}</title>
 
     <!-- Meta -->
@@ -80,6 +83,31 @@
     {% for modal in site.data.modals %}
     {% include modal.html id=modal.id src=modal.src %}
     {% endfor %}
+
+    <!-- firebase -->
+    <script type="module">
+        // Import the functions you need from the SDKs you need
+        import { initializeApp } from "https://www.gstatic.com/firebasejs/10.4.0/firebase-app.js";
+        import { getAnalytics } from "https://www.gstatic.com/firebasejs/10.4.0/firebase-analytics.js";
+        // TODO: Add SDKs for Firebase products that you want to use
+        // https://firebase.google.com/docs/web/setup#available-libraries
+      
+        // Your web app's Firebase configuration
+        // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+        const firebaseConfig = {
+          apiKey: "AIzaSyAhAQMg1bqG2ey4C8cVEzx52R-mhOT2Hfo",
+          authDomain: "aut-os-test.firebaseapp.com",
+          projectId: "aut-os-test",
+          storageBucket: "aut-os-test.appspot.com",
+          messagingSenderId: "691409076442",
+          appId: "1:691409076442:web:425b30290340490c7b65e3",
+          measurementId: "G-9GYS038H0N"
+        };
+      
+        // Initialize Firebase
+        const app = initializeApp(firebaseConfig);
+        const analytics = getAnalytics(app);
+      </script>
 </body>
 <script src="assets/js/calendar.js"></script>
 </html>
