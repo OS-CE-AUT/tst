@@ -32,7 +32,7 @@
                 <i class="icon fas fa-{{ summary.icon }} mr-2"></i>{{
                 summary.title }}
               </div>
-              <h4 class="summary-heading {% if summary.class %}">
+              <h4 class="summary-heading ">
                 {{ summary.value }} 
                 <!-- {% if summary.desc %}
                 <span class="desc">{{ summary.desc }}</span>
@@ -40,7 +40,7 @@
               </h4>
             </div>
             <!--//col-->
-            {% endif %}
+            {% endfor %}
           </div>
           <!--//row-->
         </div>
