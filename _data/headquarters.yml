@@ -6,3 +6,43 @@
       link: https://github.com/sajavadi
     - name: linkedin
       link: https://ir.linkedin.com/in/sajavadi
+
+- name: Barry Allen
+  role: Head TA
+  image: default.png
+  social:
+    - name: github
+      link: https://github.com/
+    - name: linkedin
+      link: https://linkedin.com/in/
+    - name: twitter
+      link: https://twitter.com/
+
+- name: Reiner Braun
+  role: Head of Project
+  image: default.png
+  social:
+    - name: github
+      link: https://github.com/
+    - name: linkedin
+      link: https://linkedin.com/in/
+
+- name: Anakin Skywalker
+  role: Head of Assignments
+  image: default.png
+  social:
+    - name: github
+      link: https://github.com/
+    - name: linkedin
+      link: https://linkedin.com/in/
+    - name: twitter
+      link: https://twitter.com/
+
+- name: Peter Parker
+  role: Head of Workshops
+  image: default.png
+  social:
+    - name: github
+      link: https://github.com/
+    - name: linkedin
+      link: https://linkedin.com/in/
